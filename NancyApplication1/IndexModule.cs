@@ -6,24 +6,25 @@ namespace NancyApplication1
 
     public class IndexModule : NancyModule
     {
-        private Dictionary<string,int> usernameSbDictionary = new Dictionary<string, int>(); 
         public IndexModule()
         {
-            Get["/"] = parameters =>
-            {
-                return View["index"];
-            };
+            System.IO.Directory.CreateDirectory("Data");
 
-            Put["/hello"] = parameters =>
-            {
-                return this.Request.Query["foo"];
-            };
+            Get["/"] = parameters => View["index"];
 
-            Get["/api/{username}"] = parameters => usernameSbDictionary[parameters.username];
+            Get["/api/{username}"] = parameters =>
+            {
+                var dataFile = string.Format("Data\\{0}.txt", parameters.username);
+                if (!System.IO.File.Exists(dataFile))
+                    return "No data found";
+                return System.IO.File.ReadAllText(dataFile);
+            };
 
             Put["/api/{username}"] = parameters =>
             {
-                usernameSbDictionary.Add(parameters.username,(int) this.Request.Query["SB"]);
+                if (string.IsNullOrEmpty(parameters.username) || string.IsNullOrEmpty(Request.Query["SB"]))
+                    return "Username/SB is empty";
+                System.IO.File.WriteAllText(string.Format("Data\\{0}.txt",parameters.username),Request.Query["SB"]);
                 return "OK";
             };
         }
