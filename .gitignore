@@ -2,3 +2,7 @@ bin/
 packages/
 obj/
 NancyApplication1.v11.suo
+*.DotSettings.user
+*.suo
+*.user
+*.sln.docstates
