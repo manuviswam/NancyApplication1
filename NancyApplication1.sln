@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyApplication1", "NancyApplication1\NancyApplication1.csproj", "{68F5F5F3-B8BB-4911-875F-6F00AAE04EA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyFunctionalE2ETests", "ApiE2e\NancyFunctionalE2ETests.csproj", "{59E102A8-1005-4636-8C67-0D46B8809414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyFunctionalE2ETests", "NancyFunctionalE2ETests\NancyFunctionalE2ETests.csproj", "{59E102A8-1005-4636-8C67-0D46B8809414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
