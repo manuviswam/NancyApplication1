@@ -46,7 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bindings\BeforeScenarioAttribute.cs" />
+    <Compile Include="Bindings\HookAttribute.cs" />
+    <Compile Include="Bindings\HookType.cs" />
+    <Compile Include="Bindings\AfterScenarioAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestSetup.cs" />
+    <Compile Include="Tests\GetHomePageTest.cs" />
     <Compile Include="Tests\GetStoryboardsTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
