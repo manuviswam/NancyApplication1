@@ -12,6 +12,8 @@ namespace NancyApplication1
 
             Get["/"] = parameters => View["index"];
 
+            Get["/home"] = parameters => { return "Welcome!"; };
+
             Get["/api/{username}"] = parameters =>
             {
                 var dataFile = string.Format("Data\\{0}.txt", parameters.username);
