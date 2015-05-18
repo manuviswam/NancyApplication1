@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using NancyFunctionalE2ETests.TestBase;
 using RestSharp;
 
 namespace NancyFunctionalE2ETests.Tests
@@ -8,10 +9,12 @@ namespace NancyFunctionalE2ETests.Tests
     public class GetHomePageTest : TestSetup
     {
         [Test]
+        [HomeAspect]
         [Category("Smoke")]
         public void HomePage_should_be_returned()
         {
             const string expectedResult = "Welcome!";
+            
 
           //Get values from API for output
             var getRequest = new RestRequest("/home", Method.GET);
