@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StepDefinition\GetStepBase.cs" />
+    <Compile Include="StepDefinition\PutStepBase.cs" />
+    <Compile Include="StepDefinition\StepBase.cs" />
     <Compile Include="TestBase\HomeAspect.cs" />
     <Compile Include="TestBase\TestSetup.cs" />
     <Compile Include="Tests\GetHomePageTest.cs" />
