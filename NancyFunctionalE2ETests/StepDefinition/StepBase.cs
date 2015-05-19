@@ -5,8 +5,8 @@ namespace NancyFunctionalE2ETests.StepDefinition
 {
     public class StepBase : TestSetup
     {
-        public RestResponse PutResponseOutput { get; set; }
-        public RestResponse GetResponseOutput { get; set; }
+        public string ActualResult { get; set; }
+        public RestResponse ResponseOutput { get; set; }
 
         public StepBase Given()
         {
@@ -38,26 +38,11 @@ namespace NancyFunctionalE2ETests.StepDefinition
             return new GetStepBase().Get(apiName,this);
         }
 
-        public string PutResponse()
+        public AssertionStepBase ResponseContent()
         {
-            return PutResponseOutput.Content;
-        }  
-
-        public string GetResponse()
-        {
-            return GetResponseOutput.Content;
-        }
-
-        public StepBase AssertEqual(string actualResult, string expectedResult)
-        {
-            Assert.AreEqual(actualResult, expectedResult, "Actual value:{0} \nExpected value:{1}",actualResult,expectedResult);
-            return this;
-        }
-
-        public StepBase AssertNotEqual(string actualResult, string expectedResult)
-        {
-            Assert.AreNotEqual(actualResult, expectedResult, "Actual value:{0} \nExpected value:{1}",actualResult,expectedResult);
-            return this;
+            var assertionStepBase = new AssertionStepBase();
+            assertionStepBase.ResponseContent(this);
+            return assertionStepBase;
         }
     }
 }

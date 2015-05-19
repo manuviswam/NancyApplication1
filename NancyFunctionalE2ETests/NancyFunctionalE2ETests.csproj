@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StepDefinition\AssertionStepBase.cs" />
     <Compile Include="StepDefinition\GetStepBase.cs" />
     <Compile Include="StepDefinition\PutStepBase.cs" />
     <Compile Include="StepDefinition\StepBase.cs" />

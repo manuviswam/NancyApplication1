@@ -25,7 +25,7 @@ namespace NancyFunctionalE2ETests.Tests
               .Get(apiForValidUser)
               .Execute().
           Then()
-              .AssertEqual(PutResponse(), expectedResult);
+             .ResponseContent().Should().Equals(expectedResult);
         }
 
         [Test]
@@ -47,7 +47,7 @@ namespace NancyFunctionalE2ETests.Tests
                 .Get(apiForInvalidUser)
                 .Execute().
             Then()
-                .AssertNotEqual(PutResponse(), expectedResult);          
+                .ResponseContent().Should().NotEquals(expectedResult);          
         }
 
       
