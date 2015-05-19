@@ -28,14 +28,14 @@ namespace NancyFunctionalE2ETests.StepDefinition
             return this;
         }
         
-        public PutStepBase Put(string apiName)
+        public RequestStepBase Put(string apiName)
         {
-            return new PutStepBase().Put(apiName,this);
+            return new RequestStepBase().Put(apiName,this);
         }
         
-        public GetStepBase Get(string apiName)
+        public RequestStepBase Get(string apiName)
         {
-            return new GetStepBase().Get(apiName,this);
+            return new RequestStepBase().Get(apiName,this);
         }
 
         public AssertionStepBase ResponseContent()
