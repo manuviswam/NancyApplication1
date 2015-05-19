@@ -48,14 +48,16 @@ namespace NancyFunctionalE2ETests.StepDefinition
             return GetResponseOutput.Content;
         }
 
-        public void AssertEqual(string actualResult, string expectedResult)
+        public StepBase AssertEqual(string actualResult, string expectedResult)
         {
             Assert.AreEqual(actualResult, expectedResult, "Actual value:{0} \nExpected value:{1}",actualResult,expectedResult);
+            return this;
         }
 
-        public void AssertNotEqual(string actualResult, string expectedResult)
+        public StepBase AssertNotEqual(string actualResult, string expectedResult)
         {
             Assert.AreNotEqual(actualResult, expectedResult, "Actual value:{0} \nExpected value:{1}",actualResult,expectedResult);
+            return this;
         }
     }
 }
