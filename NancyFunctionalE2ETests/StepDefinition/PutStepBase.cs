@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using RestSharp;
+﻿using RestSharp;
 
 namespace NancyFunctionalE2ETests.StepDefinition
 {
@@ -32,7 +27,7 @@ namespace NancyFunctionalE2ETests.StepDefinition
 
         public StepBase Execute()
         {
-            step.PutResponseOutput = (RestResponse) Client.Execute(PutRequest);
+            step.ResponseOutput = (RestResponse) Client.Execute(PutRequest);
             return step;
         }
         

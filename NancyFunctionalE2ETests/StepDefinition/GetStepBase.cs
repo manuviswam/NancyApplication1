@@ -26,7 +26,7 @@ namespace NancyFunctionalE2ETests.StepDefinition
 
         public StepBase Execute()
         {
-            var stepBase = new StepBase {GetResponseOutput = (RestResponse) Client.Execute(GetRequest)};
+            var stepBase = new StepBase {ResponseOutput = (RestResponse) Client.Execute(GetRequest)};
             return stepBase;
         }
         
