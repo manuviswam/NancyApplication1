@@ -18,13 +18,13 @@ namespace NancyFunctionalE2ETests.StepDefinition
             return this;
         }
 
-        public StepBase Equals(string expectedResult)
+        public new StepBase Equals(object expectedResult)
         {
             Assert.AreEqual(stepBase.ActualResult, expectedResult, "Actual value:{0} \nExpected value:{1}", stepBase.ActualResult, expectedResult);
             return stepBase;
         }
 
-        public StepBase NotEquals(string expectedResult)
+        public StepBase NotEquals(object expectedResult)
         {
             Assert.AreNotEqual(stepBase.ActualResult, expectedResult, "Actual value:{0} \nExpected value:{1}", stepBase.ActualResult, expectedResult);
             return stepBase;

@@ -38,7 +38,6 @@ namespace NancyFunctionalE2ETests.Tests
             const string apiForInvalidUser = api + invalidUser;
             const string expectedResult = "15";
 
-
             Given()
                 .Put(apiForValidUser)
                 .With().QueryParameter("SB", expectedResult)
@@ -49,7 +48,5 @@ namespace NancyFunctionalE2ETests.Tests
             Then()
                 .ResponseContent().Should().NotEquals(expectedResult);          
         }
-
-      
     }
 }

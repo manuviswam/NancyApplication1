@@ -5,7 +5,7 @@ namespace NancyFunctionalE2ETests.StepDefinition
 {
     public class StepBase : TestSetup
     {
-        public string ActualResult { get; set; }
+        public object ActualResult { get; set; }
         public RestResponse ResponseOutput { get; set; }
 
         public StepBase Given()
