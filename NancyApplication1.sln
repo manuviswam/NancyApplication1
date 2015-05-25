@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyApplication1", "NancyApplication1\NancyApplication1.csproj", "{68F5F5F3-B8BB-4911-875F-6F00AAE04EA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyFunctionalE2ETests", "NancyFunctionalE2ETests\NancyFunctionalE2ETests.csproj", "{59E102A8-1005-4636-8C67-0D46B8809414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeFunctionalTests", "GaugeFunctionalTests\GaugeFunctionalTests.csproj", "{3F48F8B5-FBAD-4F8D-8305-26FE26D9DAA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,10 @@ Global
 		{59E102A8-1005-4636-8C67-0D46B8809414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E102A8-1005-4636-8C67-0D46B8809414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E102A8-1005-4636-8C67-0D46B8809414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F48F8B5-FBAD-4F8D-8305-26FE26D9DAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F48F8B5-FBAD-4F8D-8305-26FE26D9DAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F48F8B5-FBAD-4F8D-8305-26FE26D9DAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F48F8B5-FBAD-4F8D-8305-26FE26D9DAA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

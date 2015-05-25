@@ -1,0 +1,743 @@
+11:52:18.475 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+11:52:18.766 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hello_world.spec
+11:52:18.766 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\vbtuek5q.aep~
+11:52:18.769 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hello_world.spec
+11:52:18.771 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hello_world.spec
+11:52:18.772 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hello_world.spec~RF13ab9469.TMP
+11:52:20.947 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hello_world.spec
+11:52:30.115 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.115 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ctacbdco.tkl~
+11:52:30.117 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.120 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.121 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13abc0b6.TMP
+11:52:30.136 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.136 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\rc0l3hyx.2yo~
+11:52:30.138 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.138 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.139 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13abc0d5.TMP
+11:52:30.167 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.167 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ekhzcsq1.14s~
+11:52:30.169 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.170 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:30.171 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13abc0f5.TMP
+11:52:33.783 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:33.783 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\3cxizwqm.hoh~
+11:52:33.785 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:33.785 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:33.785 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13abcf08.TMP
+11:52:40.111 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:40.111 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\xaxythqp.j4q~
+11:52:40.116 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:40.118 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:52:40.119 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13abe7b6.TMP
+11:53:20.413 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:20.413 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\zqyhy4ic.2ud~
+11:53:20.415 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:20.417 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:20.417 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ac851d.TMP
+11:53:32.367 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:32.367 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\kbeom5qt.csa~
+11:53:32.369 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:32.369 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:32.370 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13acb3db.TMP
+11:53:36.645 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:36.645 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\3dmcdib5.yew~
+11:53:36.647 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:36.647 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:36.648 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13acc49d.TMP
+11:53:38.258 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:38.258 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\mcglubjm.wi2~
+11:53:38.260 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:38.261 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:38.261 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13accae3.TMP
+11:53:43.462 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.462 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hxz3hx0t.bd0~
+11:53:43.468 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.469 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.470 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13acdf3e.TMP
+11:53:43.566 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.566 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\s152lbrq.4tg~
+11:53:43.569 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.570 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:43.570 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13acdfab.TMP
+11:53:48.193 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:48.193 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\cfqn0wyq.se3~
+11:53:48.196 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:48.197 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:53:48.198 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13acf1c4.TMP
+11:54:21.431 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:21.431 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\bzg302aj.qzo~
+11:54:21.433 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:21.435 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:21.436 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ad7371.TMP
+11:54:30.766 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:30.766 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tgngpnln.x2h~
+11:54:30.771 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:30.771 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:30.772 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ad97f2.TMP
+11:54:53.568 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:53.568 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\fjzfjmzv.zgq~
+11:54:53.571 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:53.572 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:53.573 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13adf0fa.TMP
+11:54:57.133 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:57.133 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\de4c5u24.zla~
+11:54:57.136 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:57.136 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:54:57.136 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13adfede.TMP
+11:57:38.229 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:57:38.229 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\0fz1wkuw.40h~
+11:57:38.231 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:57:38.233 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:57:38.233 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13b0743c.TMP
+11:58:18.619 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:18.619 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ljok11y2.gph~
+11:58:18.621 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:18.622 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:18.623 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13b111f1.TMP
+11:58:22.959 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:22.959 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\dm5igrdh.c0u~
+11:58:22.964 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:22.969 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:22.970 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13b12301.TMP
+11:58:27.833 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.833 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\lbwzmy4q.nv0~
+11:58:27.835 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.836 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.894 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.894 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\2m0ec0cf.ksi~
+11:58:27.902 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.905 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:27.906 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13b13643.TMP
+11:58:29.085 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:29.085 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\akpwl5gy.qw0~
+11:58:29.087 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:29.089 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:58:29.089 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13b13af4.TMP
+12:26:34.628 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:34.628 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jtsppnfn.jga~
+12:26:34.630 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:34.631 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:34.632 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13caf2ce.TMP
+12:26:38.933 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:38.933 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\p5j50u2m.3x0~
+12:26:38.935 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:38.937 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:38.938 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cb0390.TMP
+12:26:40.017 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:40.017 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\e0uu5zcn.yj0~
+12:26:40.021 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:40.024 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:40.024 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cb07d4.TMP
+12:26:46.058 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.058 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\u5fw1znn.1ql~
+12:26:46.062 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.064 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.064 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cb1f5a.TMP
+12:26:46.066 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.066 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\xfzg0gz5.srs~
+12:26:46.068 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.069 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:26:46.070 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cb1f69.TMP
+12:29:20.568 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:20.568 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\coggzq2f.qd0~
+12:29:20.570 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:20.572 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:20.572 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cd7af1.TMP
+12:29:27.675 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:27.675 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\khtzfjfc.gup~
+12:29:27.681 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:27.681 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:27.682 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cd96ab.TMP
+12:29:29.218 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cd9cc3.TMP
+12:29:29.226 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:29.226 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\qag4nmll.e2k~
+12:29:29.230 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:29.231 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 16, Step should not be blank
+12:29:29.231 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:29.231 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 16, Step should not be blank
+12:29:29.231 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cd9cd2.TMP
+12:29:30.762 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:30.762 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hkupinf4.0e3~
+12:29:30.767 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:30.768 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 16, Step should not be blank
+12:29:30.768 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:29:30.768 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 16, Step should not be blank
+12:29:30.768 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cda2cb.TMP
+12:30:05.625 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.625 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\pfvtaai3.kmh~
+12:30:05.627 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.627 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.628 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce2ade.TMP
+12:30:05.864 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.864 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\is5nzvxa.c5g~
+12:30:05.866 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.869 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:05.869 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce2be7.TMP
+12:30:06.133 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.133 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\viuksqec.xic~
+12:30:06.138 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.139 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.139 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce2cf1.TMP
+12:30:06.425 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.425 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jmytetrc.2ie~
+12:30:06.429 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.432 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.432 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce2e19.TMP
+12:30:06.584 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.584 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hf4msv4f.2tk~
+12:30:06.587 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.587 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:06.588 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce2eb5.TMP
+12:30:07.155 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.155 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\camjutj2.cmh~
+12:30:07.159 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.159 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.160 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce30f6.TMP
+12:30:07.557 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.557 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\qbz3xgtt.ugd~
+12:30:07.560 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.561 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.561 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce327c.TMP
+12:30:07.682 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.682 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ioman2gb.rxn~
+12:30:07.684 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.686 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.687 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce32f9.TMP
+12:30:07.915 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.915 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\qlhm2hdg.1v3~
+12:30:07.919 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.920 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:07.920 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce33e3.TMP
+12:30:08.059 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.059 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\my251p55.dch~
+12:30:08.062 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.063 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.063 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce347f.TMP
+12:30:08.197 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.197 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ouu1w5cf.rdc~
+12:30:08.200 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.200 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.201 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce34fc.TMP
+12:30:08.413 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.413 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jbtha2og.0t5~
+12:30:08.415 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.421 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.422 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce35c7.TMP
+12:30:08.595 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.595 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\xw1rafuz.svy~
+12:30:08.597 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.600 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.601 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3691.TMP
+12:30:08.773 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.773 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ojzuvlio.ysw~
+12:30:08.775 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.776 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.777 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce373d.TMP
+12:30:08.937 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.937 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\4vlh4ngy.c32~
+12:30:08.939 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.941 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:08.942 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce37e9.TMP
+12:30:09.217 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.217 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ix1gcyg5.vbm~
+12:30:09.219 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.222 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.222 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3901.TMP
+12:30:09.245 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.252 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\lwrhz505.sxf~
+12:30:09.254 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.255 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.255 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3921.TMP
+12:30:09.526 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.526 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\igpliyrb.abv~
+12:30:09.527 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.529 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:09.529 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3a2a.TMP
+12:30:10.010 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.010 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\uslwhprk.cfu~
+12:30:10.012 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.012 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.012 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3c1d.TMP
+12:30:10.200 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.200 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jbtciswz.js4~
+12:30:10.202 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.202 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.204 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3cc9.TMP
+12:30:10.336 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.336 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\4mlqrgji.xwi~
+12:30:10.338 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.338 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.339 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3d55.TMP
+12:30:10.906 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.906 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\cnhylhpp.fnx~
+12:30:10.908 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.908 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:10.909 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce3f96.TMP
+12:30:11.112 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.112 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\rajf2q2x.us1~
+12:30:11.115 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.116 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.116 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce4061.TMP
+12:30:11.226 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.226 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\bl3v3a3o.wym~
+12:30:11.228 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.229 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.229 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce40de.TMP
+12:30:11.539 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.539 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tmerh5c5.rub~
+12:30:11.543 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.543 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.545 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce4206.TMP
+12:30:11.575 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.575 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\vsyb12ky.ltu~
+12:30:11.578 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.579 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.579 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce4235.TMP
+12:30:11.699 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.699 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\dkhdbmvy.nrs~
+12:30:11.701 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.702 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.703 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce42b2.TMP
+12:30:11.934 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.934 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\1a5bm04a.xlq~
+12:30:11.937 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.938 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:30:11.938 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13ce438c.TMP
+12:31:08.510 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:08.510 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\bhimuf2m.32s~
+12:31:08.512 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:08.512 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:08.513 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cf2082.TMP
+12:31:15.726 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:15.726 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\pardvkj1.b1t~
+12:31:15.728 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:15.730 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:15.731 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cf3cb9.TMP
+12:31:17.039 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:17.039 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\o2ksl35m.3n1~
+12:31:17.043 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:17.045 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:17.046 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cf41e7.TMP
+12:31:27.086 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:27.086 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\eubaq4by.so3~
+12:31:27.088 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:27.090 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:27.090 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cf6926.TMP
+12:31:28.470 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:28.470 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\20iesdbr.z44~
+12:31:28.473 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:28.475 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:31:28.476 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13cf6e92.TMP
+12:32:27.371 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.371 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\lhledben.cf4~
+12:32:27.376 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.376 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.377 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13d0549c.TMP
+12:32:27.707 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.707 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\rzdj4dn5.0sp~
+12:32:27.710 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.710 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:27.711 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13d055e4.TMP
+12:32:28.009 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:28.009 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\f2hz0cfs.js4~
+12:32:28.011 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:28.014 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:28.014 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13d0571c.TMP
+12:32:30.149 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:30.149 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\t4zfgvjc.lss~
+12:32:30.151 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:30.156 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:32:30.156 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13d05f75.TMP
+12:50:22.407 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:50:22.407 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jiqetft2.p0f~
+12:50:22.409 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:50:22.412 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:50:22.430 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13e0bbc8.TMP
+12:51:29.307 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:29.307 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\3mp3ils0.3aa~
+12:51:29.314 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:29.317 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:29.318 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13e1c115.TMP
+12:51:30.214 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.220 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\dnmluz5m.pef~
+12:51:30.222 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.225 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.226 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13e1c4ad.TMP
+12:51:30.457 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.457 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\5blp5pb1.ul2~
+12:51:30.459 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.461 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.461 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13e1c597.TMP
+12:51:30.651 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.652 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\l3u4334b.bnr~
+12:51:30.654 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.655 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+12:51:30.655 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF13e1c662.TMP
+13:37:16.251 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+13:37:16.251 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\o1022ene.biz~
+13:37:16.254 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+13:37:16.255 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+13:37:16.256 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF140bab74.TMP
+14:04:42.557 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:04:42.557 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\2gdl5t51.g1w~
+14:04:42.561 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:04:42.564 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:04:42.565 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1424ca2b.TMP
+14:07:05.375 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:05.375 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\5myr1ksu.3nh~
+14:07:05.377 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:05.377 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:05.377 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1426f80e.TMP
+14:07:10.054 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.054 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\2z52n5gw.zak~
+14:07:10.059 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.059 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.060 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14270a56.TMP
+14:07:10.067 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.067 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\kr5ugivv.auj~
+14:07:10.069 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.075 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:07:10.075 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14270a75.TMP
+14:35:57.346 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.346 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\2xdvb15s.0lb~
+14:35:57.348 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.349 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.349 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1441658f.TMP
+14:35:57.465 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.465 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\j2mlobe3.uen~
+14:35:57.467 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.468 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:35:57.469 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1441660c.TMP
+14:39:43.085 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.085 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ous5ro1r.li0~
+14:39:43.087 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.089 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.089 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1444d755.TMP
+14:39:43.159 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.159 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\b44q3twz.yxs~
+14:39:43.161 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.163 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:39:43.163 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF1444d7a3.TMP
+14:42:14.051 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:14.051 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\maigc2q5.mxl~
+14:42:14.053 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:14.055 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:14.056 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144724f7.TMP
+14:42:27.582 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.582 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\cggks2f2.3c0~
+14:42:27.584 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.588 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.589 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144759cd.TMP
+14:42:27.607 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.607 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\svgazx4b.ryp~
+14:42:27.609 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.611 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.611 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144759fc.TMP
+14:42:27.668 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.668 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\xak0boav.hyc~
+14:42:27.671 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.678 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.680 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14475a3a.TMP
+14:42:27.710 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.715 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\fapuvnam.czk~
+14:42:27.717 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.724 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.725 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14475a69.TMP
+14:42:27.820 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.824 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tw4lfvve.4db~
+14:42:27.830 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.831 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.832 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14475ad6.TMP
+14:42:27.971 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.971 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\p20hrt4b.qps~
+14:42:27.973 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.975 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:27.977 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14475b53.TMP
+14:42:28.191 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:28.191 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tibwjurb.00f~
+14:42:28.198 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:28.199 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:42:28.199 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF14475c3d.TMP
+14:45:34.096 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.096 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ksbybqp2.rpm~
+14:45:34.100 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.100 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.100 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.100 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.100 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3240.TMP
+14:45:34.106 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.106 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ooz2aaih.ni3~
+14:45:34.109 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.114 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.115 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3260.TMP
+14:45:34.117 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.117 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\2sr5ty23.qqi~
+14:45:34.122 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.122 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.122 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a326f.TMP
+14:45:34.127 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.127 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\nzgkpnsy.q1a~
+14:45:34.132 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.132 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.133 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a327f.TMP
+14:45:34.136 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.136 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\iovuxxfy.qlr~
+14:45:34.138 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.138 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.138 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.138 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.138 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a328e.TMP
+14:45:34.142 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.142 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\udy1k1l0.do5~
+14:45:34.144 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.145 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.145 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a328e.TMP
+14:45:34.149 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.149 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\f1sdbivf.foh~
+14:45:34.152 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.154 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.154 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a329e.TMP
+14:45:34.160 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.160 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\1xq4pvqu.0if~
+14:45:34.164 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.169 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.169 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a329e.TMP
+14:45:34.179 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.179 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\iy2gucfb.kqx~
+14:45:34.186 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.190 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.191 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32ae.TMP
+14:45:34.193 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.193 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\iiepsf12.u51~
+14:45:34.197 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.197 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.197 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.197 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.197 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32bd.TMP
+14:45:34.202 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.202 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\afdj22fd.nbd~
+14:45:34.205 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.206 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.207 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32bd.TMP
+14:45:34.209 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.209 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\0g3yzhtt.xzm~
+14:45:34.214 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.214 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.215 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32cd.TMP
+14:45:34.217 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.217 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\502ppvpk.tuw~
+14:45:34.220 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.220 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.220 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.220 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.220 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32dc.TMP
+14:45:34.226 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.230 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\4kdlmlhi.fyg~
+14:45:34.233 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.233 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.233 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.233 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, File C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec doesn't exist.
+14:45:34.233 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32dc.TMP
+14:45:34.236 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.236 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\yrqemlij.hfd~
+14:45:34.238 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.239 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.239 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32ec.TMP
+14:45:34.245 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.245 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\fp0vhflp.gys~
+14:45:34.247 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.247 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.248 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a32fc.TMP
+14:45:34.251 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.251 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\pwajhlyh.m1v~
+14:45:34.256 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.256 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.257 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a330b.TMP
+14:45:34.259 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.259 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\rr3s2rbo.npk~
+14:45:34.265 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.266 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.267 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a330b.TMP
+14:45:34.271 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.271 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\3mngn1xi.ybz~
+14:45:34.276 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.276 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.277 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a331b.TMP
+14:45:34.279 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.279 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\i5mbnmhs.ifq~
+14:45:34.285 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.285 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.286 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a332a.TMP
+14:45:34.288 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.288 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hswie5h0.2la~
+14:45:34.291 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.291 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.291 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.291 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.291 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a332a.TMP
+14:45:34.296 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.296 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\5pl2wkq3.qwv~
+14:45:34.298 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.299 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.305 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a333a.TMP
+14:45:34.307 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.307 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hztauujs.24b~
+14:45:34.311 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.311 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.311 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.311 [ERRO] Spec Parse failure: [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 0, Failed to read the file C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec.
+14:45:34.311 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a333a.TMP
+14:45:34.316 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.316 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tj5e2y24.wn4~
+14:45:34.318 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.318 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.319 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a334a.TMP
+14:45:34.335 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.335 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\i4c32gz2.xu2~
+14:45:34.337 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.337 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.338 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3359.TMP
+14:45:34.345 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.345 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\nbdczxsg.iar~
+14:45:34.347 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.347 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.348 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3369.TMP
+14:45:34.358 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.358 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ckzzgymr.y1e~
+14:45:34.360 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.362 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.362 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3378.TMP
+14:45:34.369 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.369 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\4lwpxz5n.pkt~
+14:45:34.371 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.371 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.372 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3378.TMP
+14:45:34.377 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.377 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\4nalslad.w2d~
+14:45:34.379 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.379 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.380 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3388.TMP
+14:45:34.386 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.386 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\jqtywsfo.1zl~
+14:45:34.388 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.388 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.389 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3398.TMP
+14:45:34.396 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.396 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\zqvgji0x.bqo~
+14:45:34.398 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.398 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.399 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3398.TMP
+14:45:34.405 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.405 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\hraw2iyy.qha~
+14:45:34.407 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.407 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.408 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33a7.TMP
+14:45:34.415 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.415 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\vlav3shf.ufe~
+14:45:34.417 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.417 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.418 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33a7.TMP
+14:45:34.425 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.425 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\v25521s3.2ja~
+14:45:34.427 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.427 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.429 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33b7.TMP
+14:45:34.436 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.436 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\obmv0ehh.zoz~
+14:45:34.438 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.438 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.439 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33c6.TMP
+14:45:34.446 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.446 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\0xl5rke4.nqo~
+14:45:34.448 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.448 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.449 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33c6.TMP
+14:45:34.456 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.456 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\rbcukx5o.zns~
+14:45:34.458 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.458 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.459 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33d6.TMP
+14:45:34.465 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.465 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\gzt4cihb.11f~
+14:45:34.467 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.467 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.469 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33e6.TMP
+14:45:34.476 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.476 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\l41m5bp5.enk~
+14:45:34.478 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.478 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.479 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33e6.TMP
+14:45:34.486 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.486 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\1ry02ijv.b1l~
+14:45:34.488 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.488 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.489 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a33f5.TMP
+14:45:34.506 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.506 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\12np0oqe.rl3~
+14:45:34.508 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.508 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.509 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3405.TMP
+14:45:34.526 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.526 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\1qquat1j.hka~
+14:45:34.528 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.528 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.529 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3424.TMP
+14:45:34.538 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.538 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\yx53pnxh.xhk~
+14:45:34.540 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.540 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.540 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3424.TMP
+14:45:34.617 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.617 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\ge4qnilh.1m2~
+14:45:34.623 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.626 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.627 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3472.TMP
+14:45:34.639 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.641 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tkvmgrtl.hme~
+14:45:34.650 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.652 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.653 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3491.TMP
+14:45:34.664 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.664 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\qxgonq3k.1x3~
+14:45:34.666 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.666 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.667 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3491.TMP
+14:45:34.669 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.669 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\0zouiov5.5ny~
+14:45:34.671 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.671 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.672 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a34a1.TMP
+lh.1m2~
+14:45:34.623 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.625 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.627 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3472.TMP
+14:45:34.637 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.641 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\tkvmgrtl.hme~
+14:45:34.650 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.651 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.652 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3491.TMP
+14:45:34.654 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.654 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\qxgonq3k.1x3~
+14:45:34.660 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.662 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.663 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a3491.TMP
+14:45:34.665 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.665 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\0zouiov5.5ny~
+14:45:34.667 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.667 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+14:45:34.668 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF144a34a1.TMP
+14:51:07.767 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:53:16.221 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:54:05.989 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:56:34.674 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:57:00.725 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:57:23.763 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+14:57:47.992 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+11:18:05.968 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs
+11:18:06.515 [INFO] Spec removed: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:18:06.515 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\yb2f0i4c.xce~
+11:18:06.517 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:18:06.519 [INFO] Spec added/modified: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec
+11:18:06.519 [ERRO] Removing watcher on : C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec~RF3441a2.TMP
+11:18:28.452 [INFO] Watching directory: C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs

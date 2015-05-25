@@ -1,0 +1,108 @@
+11:54:11.665 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+11:54:11.935 [INFO] 
+The following failures occured:
+11:54:11.935 [INFO] 1 scenarios executed, 1 failed
+11:54:11.935 [INFO] 1 specifications executed, 1 failed
+11:54:11.935 [INFO] 0 specifications skipped
+11:54:11.935 [INFO] 168ms
+12:14:47.796 [CRIT] Failed to read manifest. invalid character 'ï' looking for beginning of value
+12:14:56.925 [CRIT] Failed to read manifest. invalid character 'ï' looking for beginning of value
+12:15:26.658 [CRIT] Failed to read manifest. invalid character 'ï' looking for beginning of value
+12:17:11.857 [CRIT] Failed to read manifest. invalid character 'ï' looking for beginning of value
+12:18:09.282 [CRIT] Failed to read manifest. invalid character 'ï' looking for beginning of value
+12:28:38.431 [DEBU] Plugin [Html Report] with pid [10264] has exited
+12:28:38.532 [INFO] 
+The following failures occured:
+12:28:38.532 [INFO] 1 scenarios executed, 1 failed
+12:28:38.532 [INFO] 1 specifications executed, 1 failed
+12:28:38.532 [INFO] 0 specifications skipped
+12:28:38.533 [INFO] 143ms
+12:40:54.624 [DEBU] Plugin [Html Report] with pid [6220] has exited
+12:40:54.726 [INFO] 
+The following failures occured:
+12:40:54.726 [INFO] 1 scenarios executed, 1 failed
+12:40:54.726 [INFO] 1 specifications executed, 1 failed
+12:40:54.726 [INFO] 0 specifications skipped
+12:40:54.726 [INFO] 266ms
+12:52:25.185 [DEBU] Plugin [Html Report] with pid [8080] has exited
+12:52:25.287 [INFO] 
+The following failures occured:
+12:52:25.287 [INFO] 1 scenarios executed, 1 failed
+12:52:25.287 [INFO] 1 specifications executed, 1 failed
+12:52:25.287 [INFO] 0 specifications skipped
+12:52:25.287 [INFO] 265ms
+13:42:23.718 [DEBU] Plugin [Html Report] with pid [11388] has exited
+13:42:23.820 [INFO] 
+The following failures occured:
+13:42:23.820 [INFO] 1 scenarios executed, 1 failed
+13:42:23.820 [INFO] 1 specifications executed, 1 failed
+13:42:23.820 [INFO] 0 specifications skipped
+13:42:23.820 [INFO] 204ms
+14:04:59.214 [DEBU] Plugin [Html Report] with pid [11272] has exited
+14:04:59.314 [INFO] 
+The following failures occured:
+14:04:59.314 [INFO] 1 scenarios executed, 1 failed
+14:04:59.314 [INFO] 1 specifications executed, 1 failed
+14:04:59.314 [INFO] 0 specifications skipped
+14:04:59.314 [INFO] 207ms
+14:06:11.704 [DEBU] Plugin [Html Report] with pid [6628] has exited
+14:06:11.806 [INFO] 1 scenarios executed, 0 failed
+14:06:11.806 [INFO] 1 specifications executed, 0 failed
+14:06:11.806 [INFO] 0 specifications skipped
+14:06:11.806 [INFO] 56ms
+14:06:36.390 [DEBU] Plugin [Html Report] with pid [9240] has exited
+14:06:36.491 [INFO] 
+The following failures occured:
+14:06:36.491 [INFO] 1 scenarios executed, 1 failed
+14:06:36.491 [INFO] 1 specifications executed, 1 failed
+14:06:36.491 [INFO] 0 specifications skipped
+14:06:36.491 [INFO] 227ms
+14:37:37.865 [DEBU] Plugin [Html Report] with pid [11980] has exited
+14:37:37.967 [INFO] 
+The following failures occured:
+14:37:37.967 [INFO] 1 scenarios executed, 1 failed
+14:37:37.967 [INFO] 1 specifications executed, 1 failed
+14:37:37.967 [INFO] 0 specifications skipped
+14:37:37.967 [INFO] 202ms
+14:40:11.848 [DEBU] Plugin [Html Report] with pid [11760] has exited
+14:40:11.948 [INFO] 
+The following failures occured:
+14:40:11.948 [INFO] 1 scenarios executed, 1 failed
+14:40:11.948 [INFO] 1 specifications executed, 1 failed
+14:40:11.948 [INFO] 0 specifications skipped
+14:40:11.948 [INFO] 143ms
+14:42:49.841 [DEBU] Plugin [Html Report] with pid [6576] has exited
+14:42:49.941 [INFO] 
+The following failures occured:
+14:42:49.941 [INFO] 1 scenarios executed, 1 failed
+14:42:49.941 [INFO] 1 specifications executed, 1 failed
+14:42:49.941 [INFO] 0 specifications skipped
+14:42:49.941 [INFO] 138ms
+14:43:37.226 [DEBU] Plugin [Html Report] with pid [10828] has exited
+14:43:37.326 [INFO] 
+The following failures occured:
+14:43:37.326 [INFO] 1 scenarios executed, 1 failed
+14:43:37.326 [INFO] 1 specifications executed, 1 failed
+14:43:37.326 [INFO] 0 specifications skipped
+14:43:37.326 [INFO] 135ms
+14:54:07.076 [DEBU] Plugin [Html Report] with pid [8912] has exited
+14:54:07.176 [INFO] 
+The following failures occured:
+14:54:07.176 [INFO] 1 scenarios executed, 1 failed
+14:54:07.176 [INFO] 1 specifications executed, 1 failed
+14:54:07.176 [INFO] 0 specifications skipped
+14:54:07.176 [INFO] 152ms
+14:56:35.783 [DEBU] Plugin [Html Report] with pid [10848] has exited
+14:56:35.884 [INFO] 
+The following failures occured:
+14:56:35.884 [INFO] 1 scenarios executed, 1 failed
+14:56:35.884 [INFO] 1 specifications executed, 1 failed
+14:56:35.884 [INFO] 0 specifications skipped
+14:56:35.884 [INFO] 199ms
+11:18:29.654 [DEBU] Plugin [Html Report] with pid [5372] has exited
+11:18:29.756 [INFO] 
+The following failures occured:
+11:18:29.756 [INFO] 1 scenarios executed, 1 failed
+11:18:29.756 [INFO] 1 specifications executed, 1 failed
+11:18:29.756 [INFO] 0 specifications skipped
+11:18:29.756 [INFO] 140ms

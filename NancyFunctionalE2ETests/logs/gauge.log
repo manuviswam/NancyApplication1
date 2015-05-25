@@ -1,0 +1,23 @@
+19:47:11.653 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+19:47:11.912 [INFO] 
+The following failures occured:
+19:47:11.924 [INFO] 1 scenarios executed, 1 failed
+19:47:11.925 [INFO] 1 specifications executed, 1 failed
+19:47:11.928 [INFO] 0 specifications skipped
+19:47:11.930 [INFO] 157ms
+20:01:53.922 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+20:01:54.213 [INFO] 
+The following failures occured:
+20:01:54.213 [INFO] 1 scenarios executed, 1 failed
+20:01:54.213 [INFO] 1 specifications executed, 1 failed
+20:01:54.213 [INFO] 0 specifications skipped
+20:01:54.213 [INFO] 190ms
+20:02:38.546 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+20:03:00.716 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+20:03:21.662 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+20:04:26.351 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+20:05:32.611 [WARN] Error starting plugin html-report. Failed to get plugin.json. html-report  is not installed
+11:56:50.178 [INFO] Installing Plugin => html-report 1.0.3
+11:56:50.181 [INFO] Downloading Plugin... => https://github.com/getgauge/html-report/releases/download/v1.0.3/html-report-1.0.3-windows.x86.zip
+11:57:31.375 [INFO] Plugin unzipped to => C:\Users\fathimah\AppData\Local\Temp\1432276051308238000391503043
+11:57:31.405 [INFO] Successfully installed plugin => html-report
