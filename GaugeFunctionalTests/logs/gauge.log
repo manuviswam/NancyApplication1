@@ -106,3 +106,96 @@ The following failures occured:
 11:18:29.756 [INFO] 1 specifications executed, 1 failed
 11:18:29.756 [INFO] 0 specifications skipped
 11:18:29.756 [INFO] 140ms
+11:06:43.006 [DEBU] Runner exited with error: exit status -532462766
+11:06:43.007 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:06:43.007 [DEBU] Error while killing runner: invalid argument
+11:15:38.814 [DEBU] Runner connection error: Timed out connecting to [::]:5430
+11:15:38.839 [DEBU] Runner exited with error: exit status 1
+11:17:40.193 [DEBU] Runner exited with error: exit status -532462766
+11:17:40.193 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:17:40.194 [DEBU] Error while killing runner: invalid argument
+11:17:44.377 [DEBU] Runner exited with error: exit status -532462766
+11:17:44.378 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:17:44.378 [DEBU] Error while killing runner: invalid argument
+11:17:44.378 [CRIT] Failed to start a runner. Runner exited with error: exit status -532462766
+
+11:19:22.876 [DEBU] Runner connection error: Timed out connecting to [::]:5468
+11:19:22.933 [DEBU] Runner exited with error: exit status 1
+11:19:47.932 [DEBU] Runner connection error: Timed out connecting to [::]:5472
+11:19:47.933 [CRIT] Failed to start a runner. Timed out connecting to [::]:5472
+11:32:13.060 [DEBU] Runner connection error: Timed out connecting to [::]:38508
+11:32:13.088 [DEBU] Runner exited with error: exit status 1
+11:32:24.032 [DEBU] Runner exited with error: exit status -532462766
+11:32:24.032 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:32:24.032 [DEBU] Error while killing runner: invalid argument
+11:32:24.032 [CRIT] Failed to start a runner. Runner exited with error: exit status -532462766
+
+11:32:55.482 [DEBU] Runner connection error: Timed out connecting to [::]:38528
+11:32:55.514 [DEBU] Runner exited with error: exit status 1
+11:33:20.492 [DEBU] Runner connection error: Timed out connecting to [::]:38530
+11:33:20.493 [CRIT] Failed to start a runner. Timed out connecting to [::]:38530
+11:38:32.701 [DEBU] Runner connection error: Timed out connecting to [::]:38556
+11:38:32.727 [DEBU] Runner exited with error: exit status 1
+11:38:37.543 [DEBU] Runner exited with error: exit status -532462766
+11:38:37.543 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:38:37.543 [DEBU] Error while killing runner: invalid argument
+11:38:37.543 [CRIT] Failed to start a runner. Runner exited with error: exit status -532462766
+
+11:40:23.611 [DEBU] Runner connection error: Timed out connecting to [::]:38580
+11:40:23.643 [DEBU] Runner exited with error: exit status 1
+11:40:48.652 [DEBU] Runner connection error: Timed out connecting to [::]:38586
+11:40:48.652 [DEBU] Error while killing runner: invalid argument
+11:40:48.652 [CRIT] Failed to start a runner. Timed out connecting to [::]:38586
+11:41:28.173 [DEBU] Runner connection error: Timed out connecting to [::]:38601
+11:41:28.205 [DEBU] Runner exited with error: exit status 1
+11:41:32.751 [DEBU] Runner exited with error: exit status -532462766
+11:41:32.751 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:41:32.751 [DEBU] Error while killing runner: invalid argument
+11:41:32.751 [CRIT] Failed to start a runner. Runner exited with error: exit status -532462766
+
+11:43:18.414 [DEBU] Runner exited with error: exit status -532462766
+11:43:18.415 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:43:18.415 [DEBU] Error while killing runner: invalid argument
+11:43:22.776 [DEBU] Runner exited with error: exit status -532462766
+11:43:22.776 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:43:22.776 [DEBU] Error while killing runner: invalid argument
+11:43:22.776 [CRIT] Failed to start a runner. Runner exited with error: exit status -532462766
+
+11:43:40.900 [DEBU] Runner exited with error: exit status -532462766
+11:43:40.901 [DEBU] Runner connection error: Runner exited with error: exit status -532462766
+11:43:40.901 [DEBU] Error while killing runner: invalid argument
+11:45:43.094 [DEBU] Plugin [Html Report] with pid [8120] has exited
+11:45:43.207 [INFO] 
+The following failures occured:
+11:45:43.207 [INFO] 1 scenarios executed, 1 failed
+11:45:43.208 [INFO] 1 specifications executed, 1 failed
+11:45:43.208 [INFO] 0 specifications skipped
+11:45:43.208 [INFO] 391ms
+12:34:44.390 [DEBU] Plugin [Html Report] with pid [8188] has exited
+12:34:44.500 [INFO] 
+The following failures occured:
+12:34:44.500 [INFO] 1 scenarios executed, 1 failed
+12:34:44.500 [INFO] 1 specifications executed, 1 failed
+12:34:44.500 [INFO] 0 specifications skipped
+12:34:44.501 [INFO] 460ms
+12:35:51.594 [DEBU] Plugin [Html Report] with pid [8148] has exited
+12:35:51.706 [INFO] 
+The following failures occured:
+12:35:51.706 [INFO] 1 scenarios executed, 1 failed
+12:35:51.706 [INFO] 1 specifications executed, 1 failed
+12:35:51.706 [INFO] 0 specifications skipped
+12:35:51.706 [INFO] 468ms
+12:36:25.939 [DEBU] Plugin [Html Report] with pid [6772] has exited
+12:36:26.048 [INFO] 
+The following failures occured:
+12:36:26.049 [INFO] 1 scenarios executed, 1 failed
+12:36:26.049 [INFO] 1 specifications executed, 1 failed
+12:36:26.049 [INFO] 0 specifications skipped
+12:36:26.049 [INFO] 470ms
+12:36:51.786 [DEBU] Plugin [Html Report] with pid [7796] has exited
+12:36:51.898 [INFO] 
+The following failures occured:
+12:36:51.898 [INFO] 1 scenarios executed, 1 failed
+12:36:51.898 [INFO] 1 specifications executed, 1 failed
+12:36:51.898 [INFO] 0 specifications skipped
+12:36:51.898 [INFO] 472ms

@@ -13,3 +13,4 @@ tags: Smoke
 | user1 | 10			|
 | user2	|			|
 |		| 20			|
+
