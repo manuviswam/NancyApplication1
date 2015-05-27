@@ -8,9 +8,10 @@ Number of storyboards for user should be returned
 
 tags: Smoke
 
-* There are users with storyboards given as
+* There are users with storyboards given as 
 | User  | Storyboard|
 | user1 | 10			|
 | user2	|			|
 |		| 20			|
+
 *The number of storyboards for the users are returned

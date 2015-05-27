@@ -374,3 +374,59 @@ The following failures occured:
 14:12:02.563 [INFO] 1 specifications executed, 1 failed
 14:12:02.563 [INFO] 0 specifications skipped
 14:12:02.563 [INFO] 182ms
+16:14:03.396 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+16:14:05.585 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:14:05.763 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+16:17:43.184 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+16:17:45.853 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:17:46.056 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:17:46.069 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:17:46.096 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+16:17:46.567 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+16:17:46.778 [DEBU] Plugin [Html Report] with pid [7232] has exited
+16:17:46.778 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+16:17:46.878 [INFO] 
+The following failures occured:
+16:17:46.878 [INFO] 1 scenarios executed, 1 failed
+16:17:46.878 [INFO] 1 specifications executed, 1 failed
+16:17:46.878 [INFO] 0 specifications skipped
+16:17:46.878 [INFO] 308ms
+16:18:39.554 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+16:18:44.657 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:18:44.923 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:18:44.937 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+16:18:44.963 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+16:19:14.143 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+16:19:14.353 [DEBU] Plugin [Html Report] with pid [4776] has exited
+16:19:14.355 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+16:19:14.457 [INFO] 
+The following failures occured:
+16:19:14.457 [INFO] 1 scenarios executed, 1 failed
+16:19:14.457 [INFO] 1 specifications executed, 1 failed
+16:19:14.457 [INFO] 0 specifications skipped
+16:19:14.457 [INFO] 28.982s
+16:30:03.995 [DEBU] Plugin [Html Report] with pid [8172] has exited
+16:30:04.113 [INFO] 
+The following failures occured:
+16:30:04.113 [INFO] 1 scenarios executed, 1 failed
+16:30:04.113 [INFO] 1 specifications executed, 1 failed
+16:30:04.113 [INFO] 0 specifications skipped
+16:30:04.113 [INFO] 545ms
+16:31:22.340 [DEBU] Runner exited with error: exit status 1
+16:31:22.349 [DEBU] Runner connection error: Runner exited with error: exit status 1
+16:31:22.349 [DEBU] Error while killing runner: invalid argument
+16:31:22.372 [CRIT] Failed to start a runner
+16:33:34.319 [DEBU] Plugin [Html Report] with pid [2920] has exited
+16:33:34.422 [INFO] 
+The following failures occured:
+16:33:34.422 [INFO] 1 scenarios executed, 1 failed
+16:33:34.422 [INFO] 1 specifications executed, 1 failed
+16:33:34.422 [INFO] 0 specifications skipped
+16:33:34.422 [INFO] 381ms
+16:35:55.928 [DEBU] Plugin [Html Report] with pid [3912] has exited
+16:35:56.043 [INFO] 
+The following failures occured:
+16:35:56.043 [INFO] 1 scenarios executed, 1 failed
+16:35:56.043 [INFO] 1 specifications executed, 1 failed
+16:35:56.043 [INFO] 0 specifications skipped
+16:35:56.043 [INFO] 555ms
