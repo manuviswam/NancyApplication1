@@ -6,5 +6,5 @@ NancyApplication1.v11.suo
 *.suo
 *.user
 *.sln.docstates
-GaugeFunctionalTests/logs/
-GaugeFunctionalTests/gauge-bin
+*.log
+GaugeFunctionalTests/gauge-bin/
