@@ -1,10 +1,45 @@
 bin/
 packages/
 obj/
+
 NancyApplication1.v11.suo
 *.DotSettings.user
 *.suo
 *.user
 *.sln.docstates
 *.log
-GaugeFunctionalTests/gauge-bin/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+.builds
+*.dotCover
+
+gauge-bin/
+
+
+# Visual Studio profiler
+*.psess
+*.vsp
+
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+tmp/
+*.tmp
