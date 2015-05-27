@@ -22,8 +22,7 @@ namespace GaugeFunctionalTests.StepImplementation
                 var request = new RestRequest(api, Method.PUT);
                 request.AddQueryParameter("SB", row[1]);
                 var response = (RestResponse)Client.Execute(request);
-                if(response!=null)
-                    Console.WriteLine("Blah");
+                
                 var request1 = new RestRequest(api, Method.GET);
                 Assert.Equals(request1, row[1]);
 
