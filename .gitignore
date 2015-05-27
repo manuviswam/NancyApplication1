@@ -9,7 +9,8 @@ NancyApplication1.v11.suo
 *.sln.docstates
 *.log
 
-GaugeFunctionalTests/gauge-bin
+GaugeFunctionalTests/gauge-bin/
+GaugeFunctionalTests/logs/
 
 # Build results
 [Dd]ebug/
