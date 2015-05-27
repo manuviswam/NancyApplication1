@@ -199,3 +199,178 @@ The following failures occured:
 12:36:51.898 [INFO] 1 specifications executed, 1 failed
 12:36:51.898 [INFO] 0 specifications skipped
 12:36:51.898 [INFO] 472ms
+10:06:24.852 [DEBU] Plugin [Html Report] with pid [6292] has exited
+10:06:24.952 [INFO] 1 scenarios executed, 0 failed
+10:06:24.952 [INFO] 1 specifications executed, 0 failed
+10:06:24.952 [INFO] 0 specifications skipped
+10:06:24.952 [INFO] 89ms
+10:07:41.736 [DEBU] Plugin [Html Report] with pid [1664] has exited
+10:07:41.836 [INFO] 1 scenarios executed, 0 failed
+10:07:41.836 [INFO] 1 specifications executed, 0 failed
+10:07:41.836 [INFO] 0 specifications skipped
+10:07:41.836 [INFO] 122ms
+10:12:26.835 [DEBU] Plugin [Html Report] with pid [7572] has exited
+10:12:26.947 [INFO] 1 scenarios executed, 0 failed
+10:12:26.947 [INFO] 1 specifications executed, 0 failed
+10:12:26.947 [INFO] 0 specifications skipped
+10:12:26.947 [INFO] 216ms
+10:14:09.014 [DEBU] Plugin [Html Report] with pid [7632] has exited
+10:14:09.118 [INFO] 1 scenarios executed, 0 failed
+10:14:09.118 [INFO] 1 specifications executed, 0 failed
+10:14:09.118 [INFO] 0 specifications skipped
+10:14:09.118 [INFO] 108ms
+10:14:27.866 [DEBU] Plugin [Html Report] with pid [8780] has exited
+10:14:27.967 [INFO] 1 scenarios executed, 0 failed
+10:14:27.967 [INFO] 1 specifications executed, 0 failed
+10:14:27.967 [INFO] 0 specifications skipped
+10:14:27.967 [INFO] 192ms
+10:14:47.636 [DEBU] Plugin [Html Report] with pid [8272] has exited
+10:14:47.766 [INFO] 1 scenarios executed, 0 failed
+10:14:47.766 [INFO] 1 specifications executed, 0 failed
+10:14:47.766 [INFO] 0 specifications skipped
+10:14:47.766 [INFO] 221ms
+10:30:59.689 [DEBU] Plugin [Html Report] with pid [5000] has exited
+10:30:59.790 [INFO] 
+The following failures occured:
+10:30:59.790 [INFO] 1 scenarios executed, 1 failed
+10:30:59.790 [INFO] 1 specifications executed, 1 failed
+10:30:59.790 [INFO] 0 specifications skipped
+10:30:59.790 [INFO] 581ms
+10:31:51.615 [DEBU] Plugin [Html Report] with pid [3024] has exited
+10:31:51.719 [INFO] 
+The following failures occured:
+10:31:51.719 [INFO] 1 scenarios executed, 1 failed
+10:31:51.719 [INFO] 1 specifications executed, 1 failed
+10:31:51.719 [INFO] 0 specifications skipped
+10:31:51.719 [INFO] 438ms
+10:34:10.649 [DEBU] Plugin [Html Report] with pid [7056] has exited
+10:34:10.767 [INFO] 
+The following failures occured:
+10:34:10.768 [INFO] 1 scenarios executed, 1 failed
+10:34:10.768 [INFO] 1 specifications executed, 1 failed
+10:34:10.768 [INFO] 0 specifications skipped
+10:34:10.768 [INFO] 548ms
+10:41:46.503 [DEBU] Plugin [Html Report] with pid [848] has exited
+10:41:46.604 [INFO] 1 scenarios executed, 0 failed
+10:41:46.604 [INFO] 1 specifications executed, 0 failed
+10:41:46.604 [INFO] 0 specifications skipped
+10:41:46.604 [INFO] 162ms
+10:41:58.439 [DEBU] Plugin [Html Report] with pid [7636] has exited
+10:41:58.540 [INFO] 1 scenarios executed, 0 failed
+10:41:58.540 [INFO] 1 specifications executed, 0 failed
+10:41:58.540 [INFO] 0 specifications skipped
+10:41:58.540 [INFO] 102ms
+10:46:04.300 [INFO]  create  manifest.json
+10:46:04.302 [INFO]  skip  manifest.json
+10:46:04.305 [INFO]  create  specs
+10:46:04.305 [INFO]  skip  specs
+10:46:04.306 [INFO]  create  specs/hello_world.spec
+10:46:04.317 [INFO]  create  env
+10:46:04.317 [INFO]  create  env/default
+10:46:04.319 [INFO]  create  env/default/default.properties
+10:46:05.918 [INFO] 
+Successfully initialized the project. Run specifications with "gauge specs/"
+10:52:36.733 [DEBU] Plugin [Html Report] with pid [7408] has exited
+10:52:36.837 [INFO] 1 scenarios executed, 0 failed
+10:52:36.837 [INFO] 1 specifications executed, 0 failed
+10:52:36.837 [INFO] 0 specifications skipped
+10:52:36.837 [INFO] 123ms
+11:04:44.709 [DEBU] Plugin [Html Report] with pid [2744] has exited
+11:04:44.821 [INFO] 1 scenarios executed, 0 failed
+11:04:44.821 [INFO] 1 specifications executed, 0 failed
+11:04:44.821 [INFO] 0 specifications skipped
+11:04:44.821 [INFO] 206ms
+11:05:07.230 [DEBU] Plugin [Html Report] with pid [3404] has exited
+11:05:07.332 [INFO] 1 scenarios executed, 0 failed
+11:05:07.332 [INFO] 1 specifications executed, 0 failed
+11:05:07.332 [INFO] 0 specifications skipped
+11:05:07.332 [INFO] 239ms
+11:13:05.950 [DEBU] Plugin [Html Report] with pid [6688] has exited
+11:13:06.052 [INFO] 1 scenarios executed, 0 failed
+11:13:06.052 [INFO] 1 specifications executed, 0 failed
+11:13:06.052 [INFO] 0 specifications skipped
+11:13:06.052 [INFO] 17.844s
+11:20:33.850 [DEBU] Plugin [Html Report] with pid [6296] has exited
+11:20:33.955 [INFO] 1 scenarios executed, 0 failed
+11:20:33.955 [INFO] 1 specifications executed, 0 failed
+11:20:33.955 [INFO] 0 specifications skipped
+11:20:33.955 [INFO] 4m26.328s
+11:21:35.715 [DEBU] Plugin [Html Report] with pid [6652] has exited
+11:21:35.818 [INFO] 
+The following failures occured:
+11:21:35.818 [INFO] 1 scenarios executed, 1 failed
+11:21:35.818 [INFO] 1 specifications executed, 1 failed
+11:21:35.818 [INFO] 0 specifications skipped
+11:21:35.818 [INFO] 33.518s
+11:23:25.805 [DEBU] Plugin [Html Report] with pid [9200] has exited
+11:23:25.921 [INFO] 
+The following failures occured:
+11:23:25.922 [INFO] 1 scenarios executed, 1 failed
+11:23:25.922 [INFO] 1 specifications executed, 1 failed
+11:23:25.922 [INFO] 0 specifications skipped
+11:23:25.922 [INFO] 9.301s
+11:24:01.150 [DEBU] Plugin [Html Report] with pid [8252] has exited
+11:24:01.257 [INFO] 
+The following failures occured:
+11:24:01.257 [INFO] 1 scenarios executed, 1 failed
+11:24:01.257 [INFO] 1 specifications executed, 1 failed
+11:24:01.257 [INFO] 0 specifications skipped
+11:24:01.257 [INFO] 320ms
+11:24:53.634 [DEBU] Plugin [Html Report] with pid [7600] has exited
+11:24:53.739 [INFO] 
+The following failures occured:
+11:24:53.739 [INFO] 1 scenarios executed, 1 failed
+11:24:53.739 [INFO] 1 specifications executed, 1 failed
+11:24:53.739 [INFO] 0 specifications skipped
+11:24:53.739 [INFO] 326ms
+11:49:36.554 [DEBU] Plugin [Html Report] with pid [6656] has exited
+11:49:36.663 [INFO] 
+The following failures occured:
+11:49:36.663 [INFO] 1 scenarios executed, 1 failed
+11:49:36.663 [INFO] 1 specifications executed, 1 failed
+11:49:36.663 [INFO] 0 specifications skipped
+11:49:36.663 [INFO] 24m6.971s
+11:51:45.715 [DEBU] Plugin [Html Report] with pid [6992] has exited
+11:51:45.816 [INFO] 
+The following failures occured:
+11:51:45.816 [INFO] 1 scenarios executed, 1 failed
+11:51:45.816 [INFO] 1 specifications executed, 1 failed
+11:51:45.816 [INFO] 0 specifications skipped
+11:51:45.816 [INFO] 281ms
+11:52:36.946 [DEBU] Plugin [Html Report] with pid [8692] has exited
+11:52:37.160 [INFO] 
+The following failures occured:
+11:52:37.160 [INFO] 1 scenarios executed, 1 failed
+11:52:37.160 [INFO] 1 specifications executed, 1 failed
+11:52:37.160 [INFO] 0 specifications skipped
+11:52:37.160 [INFO] 30.136s
+14:03:55.913 [CRIT] [ParseError] C:\Users\fathimah\NancyApplication1\GaugeFunctionalTests\specs\GetStoryboardsTest.spec : line no: 17, Step should not be blank
+14:04:08.533 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+14:04:10.429 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+14:04:10.585 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+14:04:10.611 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+14:04:11.024 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+14:04:11.127 [DEBU] Plugin [Html Report] with pid [1636] has exited
+14:04:11.130 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+14:04:11.231 [INFO] 
+The following failures occured:
+14:04:11.231 [INFO] 1 scenarios executed, 1 failed
+14:04:11.231 [INFO] 1 specifications executed, 1 failed
+14:04:11.231 [INFO] 0 specifications skipped
+14:04:11.231 [INFO] 289ms
+14:10:39.170 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+14:10:40.841 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+14:10:41.021 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+14:12:00.788 [WARN] Incorrect value for runner_connection_timeout in property file.Cannot convert  to time
+14:12:01.957 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+14:12:02.064 [WARN] Incorrect value for runner_request_timeout in property file.Cannot convert  to time
+14:12:02.084 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+14:12:02.353 [WARN] Incorrect value for plugin_connection_timeout in property file.Cannot convert  to time
+14:12:02.463 [DEBU] Plugin [Html Report] with pid [7596] has exited
+14:12:02.463 [WARN] Incorrect value for plugin_kill_timeout in property file.Cannot convert  to time
+14:12:02.563 [INFO] 
+The following failures occured:
+14:12:02.563 [INFO] 1 scenarios executed, 1 failed
+14:12:02.563 [INFO] 1 specifications executed, 1 failed
+14:12:02.563 [INFO] 0 specifications skipped
+14:12:02.563 [INFO] 182ms

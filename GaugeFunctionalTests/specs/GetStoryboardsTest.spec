@@ -13,4 +13,4 @@ tags: Smoke
 | user1 | 10			|
 | user2	|			|
 |		| 20			|
-
+*The number of storyboards for the users are returned

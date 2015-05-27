@@ -20,18 +20,12 @@ namespace GaugeFunctionalTests.StepImplementation
                 var api = ApiName + row[0];
                 var request = new RestRequest(api, Method.PUT);
                 request.AddQueryParameter("SB", row[1]);
+                var response = (RestResponse)Client.Execute(request);
+                var request1 = new RestRequest(api, Method.GET);
+                Assert.Equals(request1, row[1]);
+
 
             }
-        }
-
-        public void GaugeImpl2()
-        {
-
-        }
-
-        public void GaugeImpl3()
-        {
-
         }
     }
 }
