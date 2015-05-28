@@ -2,6 +2,7 @@ bin/
 packages/
 obj/
 
+
 NancyApplication1.v11.suo
 *.DotSettings.user
 *.suo
@@ -11,6 +12,7 @@ NancyApplication1.v11.suo
 
 GaugeFunctionalTests/gauge-bin/
 GaugeFunctionalTests/logs/
+GaugeFunctionalTests/reports/
 
 # Build results
 [Dd]ebug/
