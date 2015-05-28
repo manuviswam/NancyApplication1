@@ -3,43 +3,41 @@ using Gauge.CSharp.Lib;
 using Gauge.CSharp.Lib.Attribute;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NancyFunctionalE2ETests;
+using NancyFunctionalE2ETests.StepDefinition;
 using RestSharp;
 
 namespace GaugeFunctionalTests.StepImplementation
 {
     public class RequestStep : GaugeTestHooks
     {
-        private const string ApiName = "/api/";
+        private string numberOfStoryboards;
+        
+        StoryboardApiPage storyboardApiPage =  new StoryboardApiPage();
 
-        [Step("There are users with storyboards given as <table>")]
-        public void ThereAreUsersWithStoryboardsGivenAs(Table table)
-
+        [Step("Enter user <username> with <numberOfStoryboards> storyboards")]
+        public void EnterUserStoryboardInformation(string username, string numberOfStoryboards)
         {
-            var rows = table.GetRows();
-            foreach (var row in rows)
-            {
-                var api = ApiName + row[0];
-                var request = new RestRequest(api, Method.PUT);
-                request.AddQueryParameter("SB", row[1]);
-                var response = (RestResponse)Client.Execute(request);
-                
-                var request1 = new RestRequest(api, Method.GET);
-                Assert.Equals(request1, row[1]);
-
-
-            }
+            storyboardApiPage.PutStoryboardValueForUser(username, numberOfStoryboards);
         }
 
-        [Step("The number of storyboards for the users are returned")]
-        public void TheNumberOfStoryboardsForTheUsersAreReturned(Table table)
+        [Step("Fetch number of storyboards for <username>")]
+        public void FetchNumberOfStoryboards(string username)
         {
-            var rows = table.GetRows();
-            foreach (var row in rows)
-            {
-                var api = ApiName + row[0];
-                var request1 = new RestRequest(api, Method.GET);
-                Assert.Equals(request1, row[1]);
-            }
+            numberOfStoryboards = storyboardApiPage.GetStoryboardNumberForUser(username);
+        }
+
+        [Step("The number of storyboards should be <expectedNumberOfStoryboards>")]
+        public void AssertNumberOfStoryboard(string expectedNumberOfStoryboards)
+        {
+            
+            Assert.AreEqual(expectedNumberOfStoryboards, numberOfStoryboards, "Expected value:{0} \nActual value", expectedNumberOfStoryboards, numberOfStoryboards);
+        }
+
+        [Step("The number of storyboards should not be <expectedNumberOfStoryboards>")]
+        public void AssertNotNumberOfStoryboards(string expectedNumberOfStoryboards)
+        {
+            
+            Assert.AreNotEqual(expectedNumberOfStoryboards, numberOfStoryboards, "Expected value: not {0} \nActual value", expectedNumberOfStoryboards, numberOfStoryboards);
         }
     }
 }

@@ -6,12 +6,18 @@ tags: Storyboard
 Number of storyboards for user should be returned
 -------------------------------------------------
 
-tags: Smoke
+tags: Smoke, Api
 
-* There are users with storyboards given as 
-| User  | Storyboard|
-| user1 | 10			|
-| user2	|			|
-|		| 20			|
+* Enter user "userA" with "10" storyboards
+* Fetch number of storyboards for "userA"
+* The number of storyboards should be "10" 
 
-*The number of storyboards for the users are returned
+
+Test
+----
+
+tags: Sanity, Api
+
+* Enter user "userB" with "10" storyboards
+* Fetch number of storyboards for "userC"
+* The number of storyboards should not be "10" 
