@@ -58,6 +58,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="GaugeTestHooks.cs" />
+    <Compile Include="Pages\StoryboardApiPage.cs" />
+    <Compile Include="Pages\RequestPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StepImplementation\RequestStep.cs" />
   </ItemGroup>
@@ -67,6 +69,7 @@
     <None Include="packages.config" />
     <None Include="specs\GetStoryboardsTest.spec" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
