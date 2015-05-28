@@ -10,16 +10,57 @@ namespace NancyFunctionalE2ETests
 {
     public class GaugeTestHooks
     {
-        public RestClient Client;
+        string output = "Begin";
 
         [BeforeSuite]
         public void BeforeAll()
         {
-            //define base url where all APIs are hosted
-            const string baseUrl = "http://localhost:3579";
+            Console.WriteLine("\n BeforeSuite");
+        }  
+        
+        [BeforeSpec]
+        public void BeforeSpec()
+        {
+            Console.WriteLine("\n BeforeSpec");
+        } 
+       
+        [BeforeScenario]
+        public void BeforeScenario()
+        {
+            output = output+"\n BeforeScenario";
+        } 
+      
+        [BeforeStep]
+        public void BeforeStep()
+        {
+            output = output+"\n BeforeStep";
+        }  
 
-            //initialise RESTSharp client
-            Client = new RestClient(baseUrl);
-        }
+        [AfterSuite]
+        public void AfterAll()
+        {
+            output = output + "\n AfterSuite";
+//            Console.Write(output);
+        }  
+        
+        [AfterSpec]
+        public void AfterSpec()
+        {
+            output = output + "\n AfterSpec";
+        } 
+       
+        [AfterScenario]
+        public void AfterScenario()
+        {
+            output = output + "\n AfterScenario";
+        } 
+      
+        [AfterStep]
+        public void AfterStep()
+        {
+            output = output + "\n AfterStep";
+        }  
+       
+
     }
 }
