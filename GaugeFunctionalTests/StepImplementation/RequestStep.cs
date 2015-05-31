@@ -8,7 +8,7 @@ using RestSharp;
 
 namespace GaugeFunctionalTests.StepImplementation
 {
-    public class RequestStep : GaugeTestHooks
+    public class RequestStep
     {
         private string numberOfStoryboards;
         
