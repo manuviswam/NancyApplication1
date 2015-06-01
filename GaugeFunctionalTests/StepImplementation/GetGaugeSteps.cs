@@ -1,16 +1,17 @@
 ﻿using Gauge.CSharp.Lib.Attribute;
 using GaugeFunctionalTests.Pages.Contexts;
 using GaugeFunctionalTests.Pages.GetGaugePages;
+using GaugeFunctionalTests.Pages.PoetryFoundationPages;
 
 namespace GaugeFunctionalTests.StepImplementation
 {
     public class GetGaugeSteps
     {
 
-        [Step("Navigate to Get Started page")]
-        public void NavigateToGetStartedPage()
+        [Step("Navigate to About Us page")]
+        public void NavigateToAboutUsPage()
         {
-            var aboutUsPage = new HomePage().OpenGetStartedPage();
+            var aboutUsPage = new HomePage().OpenAboutUsPage();
             ScenarioContext.Current.Add(aboutUsPage);
          }
 
@@ -18,7 +19,7 @@ namespace GaugeFunctionalTests.StepImplementation
         public void VerifyTitleOfGetStartedPage(string titleName)
         {
             var getStartedPage = ScenarioContext.Current.Get<AboutUsPage>();
-            getStartedPage.verifyTitleOfPageIs(titleName);
+            getStartedPage.VerifyTitleOfPageIs(titleName);
         }
     }
 }

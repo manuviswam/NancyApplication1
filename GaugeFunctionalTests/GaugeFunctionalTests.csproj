@@ -47,6 +47,9 @@
     <Reference Include="WebDriver">
       <HintPath>..\packages\Selenium.WebDriver.2.45.0\lib\net40\WebDriver.dll</HintPath>
     </Reference>
+    <Reference Include="WebDriver.Support">
+      <HintPath>..\packages\Selenium.Support.2.45.0\lib\net40\WebDriver.Support.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Choose>
     <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
@@ -62,10 +65,11 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Pages\Contexts\ScenarioContext.cs" />
-    <Compile Include="Pages\MakeMyTripPages\HomePage.cs" />
-    <Compile Include="Pages\MakeMyTripPages\AboutUsPage.cs" />
-    <Compile Include="Pages\StoryboardApiPage.cs" />
-    <Compile Include="Pages\RequestPage.cs" />
+    <Compile Include="Pages\PoetryFoundationPages\HomePage.cs" />
+    <Compile Include="Pages\PoetryFoundationPages\AboutUsPage.cs" />
+    <Compile Include="Pages\ApiPages\StoryboardApiPage.cs" />
+    <Compile Include="Pages\ApiPages\RequestPage.cs" />
+    <Compile Include="Pages\WebDriverExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="drivers\WebdriverSetup.cs" />
     <Compile Include="StepImplementation\GetGaugeSteps.cs" />
@@ -75,8 +79,8 @@
     <None Include="env\default\default.properties" />
     <None Include="manifest.json" />
     <None Include="packages.config" />
-    <None Include="specs\GetStarted.spec" />
-    <None Include="specs\GetStoryboardsTest.spec" />
+    <None Include="specs\uiTests\AboutUs.spec" />
+    <None Include="specs\apiTests\GetStoryboardsTest.spec" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="drivers\IEDriverServer.exe">
