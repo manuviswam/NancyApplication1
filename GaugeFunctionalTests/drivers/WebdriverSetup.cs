@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Gauge.CSharp.Lib.Attribute;
 using GaugeFunctionalTests.Pages.Contexts;
 using OpenQA.Selenium;
@@ -14,10 +15,8 @@ namespace GaugeFunctionalTests.drivers
         [BeforeSuite]
         public void Setup()
         {
-            string IE_DRIVER_PATH = "D:\\mckinsey\\NancyApplication1\\GaugeFunctionalTests\\drivers";
-            var options = new InternetExplorerOptions();
-            options.IntroduceInstabilityByIgnoringProtectedModeSettings = true;
-            Driver = new InternetExplorerDriver(IE_DRIVER_PATH, options);
+            var options = new InternetExplorerOptions {IntroduceInstabilityByIgnoringProtectedModeSettings = true};
+            Driver = new InternetExplorerDriver(options);
             ScenarioContext.Current.Add(this);
         }
 
@@ -32,6 +31,7 @@ namespace GaugeFunctionalTests.drivers
         public void TearDown()
         {
             Driver.Close();
+            Driver.Quit();
         }
     }
 }
