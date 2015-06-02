@@ -8,7 +8,7 @@ namespace GaugeFunctionalTests.drivers
     public class WebDriverSetup
     {
         public IWebDriver Driver { get; private set; }
-        public bool isUI { get; private set; }
+        public bool IsUi { get; private set; }
 
 /*       [BeforeSuite]
         public void Setup()
@@ -37,8 +37,7 @@ namespace GaugeFunctionalTests.drivers
         {
             var options = new InternetExplorerOptions { IntroduceInstabilityByIgnoringProtectedModeSettings = true };
             Driver = new InternetExplorerDriver(options);
-            ScenarioContext.Current.Add(this);
-            isUI = true;
+            IsUi = true;
             Driver.Navigate().GoToUrl("http://www.poetryfoundation.org/");
             Driver.Manage().Window.Maximize();
         }

@@ -1,12 +1,12 @@
-﻿using RestSharp;
+﻿using GaugeFunctionalTests.Pages.Contexts;
+using GaugeFunctionalTests.setup;
+using RestSharp;
 
-namespace NancyFunctionalE2ETests.StepDefinition
+namespace GaugeFunctionalTests.Pages.ApiPages
 {
     public class RequestPage
     {
-        const string baseUrl = "http://localhost:3579";
-        RestClient client = new RestClient(baseUrl);
-        RestRequest request { get; set; }
+       RestRequest request { get; set; }
 
         public RequestPage Put(string apiName)
         {
@@ -28,6 +28,7 @@ namespace NancyFunctionalE2ETests.StepDefinition
 
         public RestResponse Execute()
         {
+            var client = ScenarioContext.Current.Get<ApiDriverSetup>().Client;
             var response = (RestResponse) client.Execute(request);
             return response;
         }
