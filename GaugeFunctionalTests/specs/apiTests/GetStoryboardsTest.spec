@@ -2,6 +2,7 @@ Get Storyboards Test
 ====================
 tags: Storyboard
 
+* Connect the API
 
 Number of storyboards for user should be returned
 -------------------------------------------------

@@ -15,14 +15,14 @@ namespace GaugeFunctionalTests.drivers
             {
                 setup = ScenarioContext.Current.Get<WebDriverSetup>();
             }
-            catch (NullReferenceException)
+            catch (Exception)
             {
                 
                 ScenarioContext.Current.Add(new WebDriverSetup());
                 setup = ScenarioContext.Current.Get<WebDriverSetup>();
             }
 
-            if (setup.isUI)
+            if (setup.IsUi)
             {
                 var browser = setup.Driver;
                 browser.Close();

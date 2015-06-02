@@ -1,12 +1,10 @@
 ﻿using RestSharp;
 
-namespace NancyFunctionalE2ETests.StepDefinition
+namespace GaugeFunctionalTests.Pages.ApiPages
 {
     public class StoryboardApiPage : RequestPage
     {
         private const string ApiName = "/api/";
-
-        RestRequest request { get; set; }
 
         public RestResponse PutStoryboardValueForUser(string username, string numberOfStoryboards)
         {

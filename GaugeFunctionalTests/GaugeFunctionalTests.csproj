@@ -68,11 +68,12 @@
     <Compile Include="Pages\PoetryFoundationPages\HomePage.cs" />
     <Compile Include="Pages\PoetryFoundationPages\AboutUsPage.cs" />
     <Compile Include="Pages\ApiPages\StoryboardApiPage.cs" />
-    <Compile Include="Pages\ApiPages\RequestPage.cs" />
+    <Compile Include="Pages\ApiPages\RequestBasePage.cs" />
     <Compile Include="Pages\WebDriverExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="setup\BaseSetup.cs" />
-    <Compile Include="setup\WebdriverSetup.cs" />
+    <Compile Include="setup\ApiDriverSetup.cs" />
+    <Compile Include="setup\UiDriverSetup.cs" />
     <Compile Include="StepImplementation\PoetryFoundationSteps.cs" />
     <Compile Include="StepImplementation\RequestStep.cs" />
     <Compile Include="StepImplementation\SetupSteps.cs" />

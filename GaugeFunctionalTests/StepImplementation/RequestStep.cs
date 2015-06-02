@@ -1,10 +1,6 @@
-﻿using System;
-using Gauge.CSharp.Lib;
-using Gauge.CSharp.Lib.Attribute;
+﻿using Gauge.CSharp.Lib.Attribute;
+using GaugeFunctionalTests.Pages.ApiPages;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NancyFunctionalE2ETests;
-using NancyFunctionalE2ETests.StepDefinition;
-using RestSharp;
 
 namespace GaugeFunctionalTests.StepImplementation
 {
