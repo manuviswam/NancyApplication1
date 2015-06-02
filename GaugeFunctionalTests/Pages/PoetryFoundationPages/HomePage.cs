@@ -1,5 +1,6 @@
 ﻿using System;
 using GaugeFunctionalTests.drivers;
+using GaugeFunctionalTests.Pages.Contexts;
 using GaugeFunctionalTests.Pages.PoetryFoundationPages;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
@@ -13,8 +14,9 @@ namespace GaugeFunctionalTests.Pages.GetGaugePages
         {
             get
             {
+                var browser = ScenarioContext.Current.Get<WebDriverSetup>().Driver;
                 var element =
-                    WebDriverSetup.Driver.FindElement(By.LinkText("About Us"));
+                    browser.FindElement(By.LinkText("About Us"));
                 return element;
             }
         }

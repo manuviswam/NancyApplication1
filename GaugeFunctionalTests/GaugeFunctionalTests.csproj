@@ -71,9 +71,11 @@
     <Compile Include="Pages\ApiPages\RequestPage.cs" />
     <Compile Include="Pages\WebDriverExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="drivers\WebdriverSetup.cs" />
-    <Compile Include="StepImplementation\GetGaugeSteps.cs" />
+    <Compile Include="setup\BaseSetup.cs" />
+    <Compile Include="setup\WebdriverSetup.cs" />
+    <Compile Include="StepImplementation\PoetryFoundationSteps.cs" />
     <Compile Include="StepImplementation\RequestStep.cs" />
+    <Compile Include="StepImplementation\SetupSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="env\default\default.properties" />

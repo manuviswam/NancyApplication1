@@ -5,7 +5,7 @@ using GaugeFunctionalTests.Pages.PoetryFoundationPages;
 
 namespace GaugeFunctionalTests.StepImplementation
 {
-    public class GetGaugeSteps
+    public class PoetryFoundationSteps
     {
 
         [Step("Navigate to About Us page")]

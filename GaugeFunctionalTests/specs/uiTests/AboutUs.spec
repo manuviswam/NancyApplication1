@@ -2,6 +2,7 @@ Poetry foundation Test
 ======================
 tags: Storyboard
 
+* Open browser
 
 About Us test
 -------------

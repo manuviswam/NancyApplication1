@@ -17,13 +17,17 @@ namespace GaugeFunctionalTests.Pages.Contexts
 
         public void Add<T>(T pageContext)
         {
-            pageObjects.Add(typeof(T), pageContext);
-            
+            pageObjects[typeof (T)] = pageContext;           
         }
 
         public T Get<T>()
         {
             return (T) pageObjects[typeof(T)];
+        }
+
+        public void EmptyList()
+        {
+            pageObjects.Clear();
         }
     }
 }
